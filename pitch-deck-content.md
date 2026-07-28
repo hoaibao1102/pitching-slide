@@ -244,6 +244,7 @@ Home Dashboard → Nhấn Mic → Voice Recording Bottom Sheet
 | **Milestone** | 800 users · 30 stores · MRR 3M₫ | 12 tháng | |
 | **Closing Statement** | "HomeMind không chỉ là một ứng dụng — đó là người trợ lý gia đình giúp mỗi bữa ăn ngon hơn, mỗi đồng tiền đáng giá hơn." | | |
 | **Contact** | homemind.app · hoaibaole.qng@gmail.com | | |
+| **Financial Link** | [Financial Model (Google Sheets)](https://docs.google.com/spreadsheets/d/1bQdpnB5kuysCb3Hh_5Kw2yXbMBGhBDhCyoy9NUoBQKs/edit?gid=335397862#gid=335397862) | | |
 | **Tags** | #EXE101 · #FPTUniversity · #SmartHome | | |
 
 ---

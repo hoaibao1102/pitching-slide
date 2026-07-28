@@ -256,4 +256,4 @@
    - Người thuyết trình chính (Presenter): Nói các Slide 1, 2, 3, 6, 10.
    - Lead BA / Mkt: Nói Slide 4, 5, 7.
    - Tech Lead / Finance: Phụ trách trả lời câu hỏi Q&A chuyên sâu về AI API và Tài chính.
-4. **Chuẩn bị Q&A:** Đã nắm chắc các số liệu khảo sát từ `RAW_DATA.md` (111 mẫu), chi phí API Gemini Flash, và phương án cạnh tranh với KiotViet.
+4. **Chuẩn bị Q&A:** Đã nắm chắc các số liệu khảo sát từ `RAW_DATA.md` (111 mẫu), chi phí API Gemini Flash, phương án cạnh tranh với KiotViet, và sẵn sàng mở [Báo cáo tài chính chi tiết (Google Sheets)](https://docs.google.com/spreadsheets/d/1bQdpnB5kuysCb3Hh_5Kw2yXbMBGhBDhCyoy9NUoBQKs/edit?gid=335397862#gid=335397862) ở Slide cuối khi Hội đồng hỏi.

@@ -250,7 +250,7 @@ Dựa trên báo cáo e-Conomy SEA, Việt Nam có tỷ lệ người dùng di �
 
 \===============================================================
 
-## **PART 3: [link demo (video)](https://youtube.com/shorts/1OXZVjdCdi4?si=1Un_eo8XiJMWL8W3)**
+## **PART 3: [link demo (video)](https://youtube.com/shorts/KQFDGCgzmQw)**
 
 \===============================================================
 
